@@ -1,0 +1,20 @@
+class Dog
+
+  def initialize()
+  end
+
+  def eat
+    puts "nom nom nom"
+  end
+
+
+
+  private
+
+  def digest
+    put "my stomach is empty"
+  end
+
+
+
+end
